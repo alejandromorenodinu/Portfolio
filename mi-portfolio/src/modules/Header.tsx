@@ -7,7 +7,7 @@ function Header() {
             <nav>
                 <button>Inicio</button>
                 <button>Proyectos</button>
-                <button>Habilidades</button>
+                <button>Sobre mi</button>
                 <button>Contacto</button>
             </nav>
         </header>
